@@ -1,6 +1,6 @@
 <div align="center">
 
-# kCore Framework
+# kCore Framework | Coming soon...
 
 ## Note: This is a work in progress and a hobby project.
 
