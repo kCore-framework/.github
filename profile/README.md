@@ -30,7 +30,7 @@ kCore provides a robust foundation for FiveM roleplay servers with features incl
 
 Built with both developers and players in mind, kCore offers a clean, efficient codebase while maintaining an intuitive user experience.
 
-## Interface Preview | please remeber this is a work in progress and will change eventaully
+## Interface Preview | please remeber this is a work in progress and might change.
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"></kbd>
     <kbd><img src="assets/multichar.PNG" alt="Multi-Character System" width="500" /></kbd>
