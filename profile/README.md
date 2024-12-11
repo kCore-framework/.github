@@ -2,6 +2,8 @@
 
 # kCore Framework
 
+## Note: This is a work in progress and a hobby project.
+
 <kbd><img src="assets/kCore.png" alt="kCore Logo" width="200" /></kbd>
 
 A modern, user-friendly roleplay framework for FiveM servers, designed with simplicity and performance in mind.
