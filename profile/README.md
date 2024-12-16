@@ -1,7 +1,7 @@
 <div align="center">
 
 # kCore Framework | Coming soon...
-## [Discord](https://discord.gg/5Da9eCfEec)
+## [Join Our Discord](https://discord.gg/5Da9eCfEec)
 ## Note: This is a work in progress and a hobby project.
 
 <kbd><img src="assets/kCore.png" alt="kCore Logo" width="200" /></kbd>
